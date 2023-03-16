@@ -1,0 +1,1 @@
+#!/bin/bash                                                                    systemctl status nginex                                                        systemctl restart nginex                                                       systemctl enable nginex
